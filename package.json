@@ -1,0 +1,30 @@
+{
+    "name": "copypal",
+    "displayName": "CopyPal",
+    "description": "Copy palette entries as text to the clipboard in the desired format",
+    "version": "1.2",
+    "author": {
+        "name": "Basil Termini",
+        "email": "basil@terminibros.com",
+        "url": "https://basil-termini.itch.io/"
+    },
+    "publisher": "basil-termini",
+    "license": "MIT",
+    "categories": [
+        "Scripts",
+        "Keys"
+    ],
+    "contributes": {
+        "scripts": [
+            {
+                "path": "./copypal.lua"
+            }
+        ],
+        "keys": [
+            {
+                "id": "copypal",
+                "path": "./copypal-keys.aseprite-keys"
+            }
+        ]
+    }
+}
