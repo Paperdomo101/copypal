@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <keyboard version="1">
     <commands>
-        <key command="copypal" shortcut="Alt+C" />
+        <key command="copypal_copy" shortcut="Ctrl+Shift+C" />
+        <key command="copypal_paste" shortcut="Ctrl+Shift+V" />
+        <key command="copypal_options" shortcut="Ctrl+Shift+O" />
     </commands>
 </keyboard>

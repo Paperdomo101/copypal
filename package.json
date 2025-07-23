@@ -2,7 +2,7 @@
     "name": "copypal",
     "displayName": "CopyPal",
     "description": "Copy palette entries as text to the clipboard in the desired format",
-    "version": "1.2",
+    "version": "1.2.3",
     "author": {
         "name": "Basil Termini",
         "email": "basil@terminibros.com",
